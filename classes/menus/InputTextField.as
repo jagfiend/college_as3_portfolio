@@ -1,0 +1,1 @@
+﻿package classes.menus // class for input text field used in game over screen...{	// import library	import flash.display.MovieClip;	// class code...	public class InputTextField extends MovieClip	{		public function InputTextField() 		{			// constructor code			// empty as simply calls graphic from library...		} // end of functions	} // end of class} // end of package
