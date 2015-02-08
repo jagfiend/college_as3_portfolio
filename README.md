@@ -1,0 +1,1 @@
+My first OOP project and first experience of a strictly typed language
