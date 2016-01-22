@@ -1,1 +1,1 @@
-My first OOP project and first experience of a strictly typed language
+My first OOP project from mid-2013 and first experience of a strictly typed language
